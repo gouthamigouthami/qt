@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-508c6d1e4abce368c34e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qt-intermediate-assigment-1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt-intermediate-assigment-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt-intermediate-assigment-1-Debug-d1890a1284276f9cf278.json",
+					"name" : "Qt-intermediate-assigment-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt-intermediate-assigment-1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt-intermediate-assigment-1_autogen-Debug-bae7e6866bbc38570dc5.json",
+					"name" : "Qt-intermediate-assigment-1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qt-intermediate-assigment-1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qt-intermediate-assigment-1_autogen_timestamp_deps-Debug-afade9a41d7bfde81331.json",
+					"name" : "Qt-intermediate-assigment-1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/Qt-intermediate-assigment-1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

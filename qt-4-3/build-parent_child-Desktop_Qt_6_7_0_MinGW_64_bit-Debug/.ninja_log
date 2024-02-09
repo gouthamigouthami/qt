@@ -1,0 +1,38 @@
+# ninja log v5
+4	1717	7271788789241302	parent_child_autogen/timestamp	bae1694d0733fddf
+4	1717	7271788789241302	parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+4	1717	7271788789241302	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/timestamp	bae1694d0733fddf
+4	1717	7271788789241302	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+1718	2360	7271788799776997	CMakeFiles/parent_child.dir/parent_child_autogen/mocs_compilation.cpp.obj	c6d1ec41980ec66c
+1790	4323	7271788819361937	CMakeFiles/parent_child.dir/main.cpp.obj	72598494734dab23
+4330	4913	7271788825079810	parent_child.exe	95c503676a682563
+20	1260	7271789688344781	parent_child_autogen/timestamp	bae1694d0733fddf
+20	1260	7271789688344781	parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+20	1260	7271789688344781	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/timestamp	bae1694d0733fddf
+20	1260	7271789688344781	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+1270	3980	7271789716502536	CMakeFiles/parent_child.dir/main.cpp.obj	72598494734dab23
+3981	4549	7271789721880438	parent_child.exe	95c503676a682563
+14	1097	7271790529334211	parent_child_autogen/timestamp	bae1694d0733fddf
+14	1097	7271790529334211	parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+14	1097	7271790529334211	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/timestamp	bae1694d0733fddf
+14	1097	7271790529334211	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+1104	3489	7271790553974108	CMakeFiles/parent_child.dir/main.cpp.obj	72598494734dab23
+3490	4040	7271790559255064	parent_child.exe	95c503676a682563
+15	1196	7271791222576852	parent_child_autogen/timestamp	bae1694d0733fddf
+15	1196	7271791222576852	parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+15	1196	7271791222576852	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/timestamp	bae1694d0733fddf
+15	1196	7271791222576852	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+1203	3713	7271791248520160	CMakeFiles/parent_child.dir/main.cpp.obj	72598494734dab23
+3714	4304	7271791254054121	parent_child.exe	95c503676a682563
+9	1075	7271794607818305	parent_child_autogen/timestamp	bae1694d0733fddf
+9	1075	7271794607818305	parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+9	1075	7271794607818305	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/timestamp	bae1694d0733fddf
+9	1075	7271794607818305	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+1081	3521	7271794633025435	CMakeFiles/parent_child.dir/main.cpp.obj	72598494734dab23
+3522	4091	7271794638412001	parent_child.exe	95c503676a682563
+12	1570	7271844018551562	parent_child_autogen/timestamp	bae1694d0733fddf
+12	1570	7271844018551562	parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+12	1570	7271844018551562	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/timestamp	bae1694d0733fddf
+12	1570	7271844018551562	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/parent_child_autogen/mocs_compilation.cpp	bae1694d0733fddf
+1577	6125	7271844064797892	CMakeFiles/parent_child.dir/main.cpp.obj	72598494734dab23
+6126	7550	7271844078754807	parent_child.exe	95c503676a682563

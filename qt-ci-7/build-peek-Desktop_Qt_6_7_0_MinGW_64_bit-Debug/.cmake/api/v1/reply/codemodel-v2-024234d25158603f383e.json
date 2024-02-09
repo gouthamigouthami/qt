@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-830d013b53752ba34a03.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "peek",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "peek::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-peek-Debug-64b6c0331f7a4bf0ab6b.json",
+					"name" : "peek",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "peek_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-peek_autogen-Debug-0612270e5e82b413d2fd.json",
+					"name" : "peek_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "peek_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-peek_autogen_timestamp_deps-Debug-61848f9790f98da80f3e.json",
+					"name" : "peek_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-peek-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/peek"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

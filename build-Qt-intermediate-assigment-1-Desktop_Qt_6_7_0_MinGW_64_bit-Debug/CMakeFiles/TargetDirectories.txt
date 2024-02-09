@@ -1,0 +1,9 @@
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Qt-intermediate-assigment-1.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Qt-intermediate-assigment-1_autogen_timestamp_deps.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-intermediate-assigment-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Qt-intermediate-assigment-1_autogen.dir

@@ -1,0 +1,92 @@
+# ninja log v5
+2442	6374	7285213192524426	CMakeFiles/demo.dir/main.cpp.obj	b6061ec13a1cd1fe
+7953	14144	7285179547825726	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	ae01e3f3bbc73a0e
+23	2416	7285213152349872	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+23	2416	7285213152349872	demo_autogen/timestamp	688a018a0dc1c636
+23	2416	7285213152349872	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+6374	7138	7285213199683944	demo.exe	16768b3b2e1bb830
+23	2416	7285213152349872	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+5526	14446	7285206851070485	CMakeFiles/demo.dir/transfer.cpp.obj	bf6e00e4aa3e3be2
+2402	11357	7285206820171947	CMakeFiles/demo.dir/communicationlog.cpp.obj	a6b9cd971239af3
+2553	5800	7285213186759314	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+4219	8930	7285174125416408	CMakeFiles/demo.dir/aesmanager.cpp.obj	e48b804464ff674c
+27	2226	7285214483351045	demo_autogen/timestamp	688a018a0dc1c636
+27	2226	7285214483351045	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+27	2226	7285214483351045	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+27	2226	7285214483351045	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+2255	5379	7285214515616947	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+5380	6182	7285214523153910	demo.exe	16768b3b2e1bb830
+16	1119	7285216063723444	demo_autogen/timestamp	688a018a0dc1c636
+16	1119	7285216063723444	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+16	1119	7285216063723444	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+16	1119	7285216063723444	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1140	3481	7285216087650717	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+3482	4245	7285216094872312	demo.exe	16768b3b2e1bb830
+15	7049	7285218152555588	demo_autogen/timestamp	688a018a0dc1c636
+15	7049	7285218152555588	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+15	7049	7285218152555588	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+15	7049	7285218152555588	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+7117	10429	7285218190478976	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+7050	10436	7285218190528953	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	ae01e3f3bbc73a0e
+7187	10610	7285218192285921	CMakeFiles/demo.dir/transfer.cpp.obj	bf6e00e4aa3e3be2
+10610	11556	7285218201278692	demo.exe	16768b3b2e1bb830
+22	2356	7285219281770093	demo_autogen/timestamp	688a018a0dc1c636
+22	2356	7285219281770093	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+22	2356	7285219281770093	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+22	2356	7285219281770093	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+2357	5737	7285219319740745	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	ae01e3f3bbc73a0e
+2500	5886	7285219321241273	CMakeFiles/demo.dir/transfer.cpp.obj	bf6e00e4aa3e3be2
+23	3202	7285219728281007	demo_autogen/timestamp	688a018a0dc1c636
+23	3202	7285219728281007	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+23	3202	7285219728281007	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+23	3202	7285219728281007	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+3378	6213	7285219763130685	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+3203	6697	7285219767958244	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	ae01e3f3bbc73a0e
+3286	6842	7285219769420424	CMakeFiles/demo.dir/transfer.cpp.obj	bf6e00e4aa3e3be2
+6842	7611	7285219776604501	demo.exe	16768b3b2e1bb830
+13	1216	7285221267426118	demo_autogen/timestamp	688a018a0dc1c636
+13	1216	7285221267426118	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+13	1216	7285221267426118	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+13	1216	7285221267426118	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1239	3510	7285221290853832	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+3511	5641	7285221311784274	demo.exe	16768b3b2e1bb830
+60	1886	7285221887993442	demo_autogen/timestamp	688a018a0dc1c636
+60	1886	7285221887993442	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+60	1886	7285221887993442	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+60	1886	7285221887993442	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1913	4750	7285221917073449	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+4751	5529	7285221924403662	demo.exe	16768b3b2e1bb830
+25	1844	7285222791225995	demo_autogen/timestamp	688a018a0dc1c636
+25	1844	7285222791225995	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+25	1844	7285222791225995	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+25	1844	7285222791225995	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1865	4606	7285222819436743	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+4606	5369	7285222826572196	demo.exe	16768b3b2e1bb830
+16	1156	7285526880648653	demo_autogen/timestamp	688a018a0dc1c636
+16	1156	7285526880648653	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+16	1156	7285526880648653	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+16	1156	7285526880648653	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1175	4192	7285526911437651	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+4193	4992	7285526918838138	demo.exe	16768b3b2e1bb830
+25	1868	7285528593085257	demo_autogen/timestamp	688a018a0dc1c636
+25	1868	7285528593085257	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+25	1868	7285528593085257	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+25	1868	7285528593085257	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1887	5385	7285528628512739	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+5386	7090	7285528645132888	demo.exe	16768b3b2e1bb830
+14	1136	7285530073686132	demo_autogen/timestamp	688a018a0dc1c636
+14	1136	7285530073686132	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+14	1136	7285530073686132	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+14	1136	7285530073686132	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+1154	4272	7285530105456459	CMakeFiles/demo.dir/transfer.cpp.obj	bf6e00e4aa3e3be2
+4273	5111	7285530113497418	demo.exe	16768b3b2e1bb830
+22	2164	7285614779870856	demo_autogen/timestamp	688a018a0dc1c636
+22	2164	7285614779870856	demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+22	2164	7285614779870856	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/timestamp	688a018a0dc1c636
+22	2164	7285614779870856	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-demo-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	688a018a0dc1c636
+2461	5711	7285614819774718	CMakeFiles/demo.dir/bufferhandler.cpp.obj	814e4eafa44ccbe9
+2165	6213	7285614824781189	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	ae01e3f3bbc73a0e
+2232	6314	7285614825796522	CMakeFiles/demo.dir/main.cpp.obj	b6061ec13a1cd1fe
+2373	6528	7285614827817092	CMakeFiles/demo.dir/transfer.cpp.obj	bf6e00e4aa3e3be2
+2303	6536	7285614827987890	CMakeFiles/demo.dir/communicationlog.cpp.obj	a6b9cd971239af3
+6537	7360	7285614835774545	demo.exe	16768b3b2e1bb830

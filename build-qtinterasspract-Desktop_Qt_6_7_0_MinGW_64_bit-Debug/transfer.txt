@@ -1,0 +1,6 @@
+KEY: my_secret_key
+PASSWORD: my_password
+[RX^$KBSUp/:49-%%=&%!3<;<=)60= +4*XHvGGHM|Bx^PHDM}XZzDBAjZLMOR`jSDGPEv_GRR+
+KEY: my_secret_key
+PASSWORD: my_password
+[RX^$KBSUp/:49-%%=&%!3<;<=)60= )<*XHvGGHM|Bx^PHDM}XZzDBAjZLMOR`jSDGPEv_GRR#

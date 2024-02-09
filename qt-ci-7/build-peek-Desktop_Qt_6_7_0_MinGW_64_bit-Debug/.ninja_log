@@ -1,0 +1,10 @@
+# ninja log v5
+4	2157	7278788294849530	peek_autogen/timestamp	d680f25b7b909227
+4	2157	7278788294849530	peek_autogen/mocs_compilation.cpp	d680f25b7b909227
+4	2157	7278788294849530	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-peek-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/peek_autogen/timestamp	d680f25b7b909227
+4	2157	7278788294849530	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-peek-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/peek_autogen/mocs_compilation.cpp	d680f25b7b909227
+2159	2960	7278788308273736	CMakeFiles/peek.dir/peek_autogen/mocs_compilation.cpp.obj	1282f045d0bcf78d
+3	1216	7278790629513826	peek_autogen/timestamp	d680f25b7b909227
+3	1216	7278790629513826	peek_autogen/mocs_compilation.cpp	d680f25b7b909227
+3	1216	7278790629513826	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-peek-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/peek_autogen/timestamp	d680f25b7b909227
+3	1216	7278790629513826	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-peek-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/peek_autogen/mocs_compilation.cpp	d680f25b7b909227

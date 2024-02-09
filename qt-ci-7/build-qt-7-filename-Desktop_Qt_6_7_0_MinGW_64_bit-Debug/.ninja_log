@@ -1,0 +1,30 @@
+# ninja log v5
+5	1853	7277079701427037	qt-7-filename_autogen/timestamp	6f69caf915f74806
+5	1853	7277079701427037	qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+5	1853	7277079701427037	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/timestamp	6f69caf915f74806
+5	1853	7277079701427037	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+1854	2462	7277079712172103	CMakeFiles/qt-7-filename.dir/qt-7-filename_autogen/mocs_compilation.cpp.obj	40fdc8d71c4b4d7a
+1922	4393	7277079731490043	CMakeFiles/qt-7-filename.dir/main.cpp.obj	212034a8dc70bdb3
+4400	5010	7277079737269798	qt-7-filename.exe	cd6ec7de899f9099
+21	1351	7277087232873495	qt-7-filename_autogen/timestamp	6f69caf915f74806
+21	1351	7277087232873495	qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+21	1351	7277087232873495	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/timestamp	6f69caf915f74806
+21	1351	7277087232873495	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+9	1091	7277088390050297	qt-7-filename_autogen/timestamp	6f69caf915f74806
+9	1091	7277088390050297	qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+9	1091	7277088390050297	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/timestamp	6f69caf915f74806
+9	1091	7277088390050297	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+1098	4035	7277088420218137	CMakeFiles/qt-7-filename.dir/main.cpp.obj	212034a8dc70bdb3
+4036	4642	7277088425903933	qt-7-filename.exe	cd6ec7de899f9099
+12	1164	7277088574888420	qt-7-filename_autogen/timestamp	6f69caf915f74806
+12	1164	7277088574888420	qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+12	1164	7277088574888420	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/timestamp	6f69caf915f74806
+12	1164	7277088574888420	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+1170	3798	7277088602085314	CMakeFiles/qt-7-filename.dir/main.cpp.obj	212034a8dc70bdb3
+3799	4373	7277088607520658	qt-7-filename.exe	cd6ec7de899f9099
+9	1266	7277088725645943	qt-7-filename_autogen/timestamp	6f69caf915f74806
+9	1266	7277088725645943	qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+9	1266	7277088725645943	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/timestamp	6f69caf915f74806
+9	1266	7277088725645943	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-ci-7/build-qt-7-filename-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qt-7-filename_autogen/mocs_compilation.cpp	6f69caf915f74806
+1274	4341	7277088757069424	CMakeFiles/qt-7-filename.dir/main.cpp.obj	212034a8dc70bdb3
+4342	4941	7277088762827808	qt-7-filename.exe	cd6ec7de899f9099

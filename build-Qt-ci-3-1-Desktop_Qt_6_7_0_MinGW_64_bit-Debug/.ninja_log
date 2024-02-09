@@ -1,0 +1,75 @@
+# ninja log v5
+3	2456	7258992893592540	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+3	2456	7258992893592540	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+3	2456	7258992893592540	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+3	2456	7258992893592540	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+2457	5125	7258992924290416	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+2524	5348	7258992926593057	CMakeFiles/Qt-CI-3-1.dir/Qt-CI-3-1_autogen/mocs_compilation.cpp.obj	6a2877ca507d899d
+2592	5461	7258992927646111	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+5462	6072	7258992933553284	Qt-CI-3-1.exe	e663e2d95504f5a
+20	1208	7258993139123902	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+20	1208	7258993139123902	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+20	1208	7258993139123902	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+20	1208	7258993139123902	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+1224	3549	7258993163122492	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+3550	4130	7258993168608873	Qt-CI-3-1.exe	e663e2d95504f5a
+1	319	0	CMakeFiles/clean.additional	baedbe210acaa455
+319	396	0	clean	577b940aee94fbd7
+12	2253	7259008705226378	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+12	2253	7259008705226378	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+12	2253	7259008705226378	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+12	2253	7259008705226378	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+2301	5020	7259008736361387	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+2254	5064	7259008736973855	CMakeFiles/Qt-CI-3-1.dir/Qt-CI-3-1_autogen/mocs_compilation.cpp.obj	6a2877ca507d899d
+2353	5270	7259008739043327	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+5271	5864	7259008744634916	Qt-CI-3-1.exe	e663e2d95504f5a
+1	333	0	CMakeFiles/clean.additional	baedbe210acaa455
+333	438	0	clean	577b940aee94fbd7
+10	2768	7259009628566505	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+10	2768	7259009628566505	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+10	2768	7259009628566505	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+10	2768	7259009628566505	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+2851	6458	7259009670172025	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+2769	6500	7259009670567788	CMakeFiles/Qt-CI-3-1.dir/Qt-CI-3-1_autogen/mocs_compilation.cpp.obj	6a2877ca507d899d
+2957	6684	7259009672395486	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+6684	7382	7259009679155092	Qt-CI-3-1.exe	e663e2d95504f5a
+0	335	0	CMakeFiles/clean.additional	baedbe210acaa455
+335	420	0	clean	577b940aee94fbd7
+11	2497	7259009948369590	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+11	2497	7259009948369590	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+11	2497	7259009948369590	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+11	2497	7259009948369590	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+2567	5773	7259009985411843	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+2498	5793	7259009985642825	CMakeFiles/Qt-CI-3-1.dir/Qt-CI-3-1_autogen/mocs_compilation.cpp.obj	6a2877ca507d899d
+2652	5974	7259009987455820	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+5975	6636	7259009993719120	Qt-CI-3-1.exe	e663e2d95504f5a
+1	318	0	CMakeFiles/clean.additional	baedbe210acaa455
+319	399	0	clean	577b940aee94fbd7
+6	2166	7259010178269029	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+6	2166	7259010178269029	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+6	2166	7259010178269029	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+6	2166	7259010178269029	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+2167	4888	7259010209606047	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+2235	5114	7259010211818424	CMakeFiles/Qt-CI-3-1.dir/Qt-CI-3-1_autogen/mocs_compilation.cpp.obj	6a2877ca507d899d
+2308	5180	7259010212544325	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+5180	5771	7259010218039995	Qt-CI-3-1.exe	e663e2d95504f5a
+13	2333	7259612885292502	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+13	2333	7259612885292502	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+13	2333	7259612885292502	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+13	2333	7259612885292502	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+2398	5562	7259612921625891	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+2466	5601	7259612922087010	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+2334	5611	7259612922087010	CMakeFiles/Qt-CI-3-1.dir/Qt-CI-3-1_autogen/mocs_compilation.cpp.obj	6a2877ca507d899d
+5612	7131	7259612937146061	Qt-CI-3-1.exe	e663e2d95504f5a
+10	1088	7259615853974380	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+10	1088	7259615853974380	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+10	1088	7259615853974380	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+10	1088	7259615853974380	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+1102	3687	7259615880443436	CMakeFiles/Qt-CI-3-1.dir/main.cpp.obj	447c8db61a13cd4e
+3687	4312	7259615886312672	Qt-CI-3-1.exe	e663e2d95504f5a
+16	1202	7259616436591828	Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+16	1202	7259616436591828	Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+16	1202	7259616436591828	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/timestamp	e167f3148a11a0fa
+16	1202	7259616436591828	C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/build-Qt-ci-3-1-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Qt-CI-3-1_autogen/mocs_compilation.cpp	e167f3148a11a0fa
+1216	3614	7259616461267319	CMakeFiles/Qt-CI-3-1.dir/test.cpp.obj	153bc4840b4b2a79
+3615	4212	7259616466868502	Qt-CI-3-1.exe	e663e2d95504f5a

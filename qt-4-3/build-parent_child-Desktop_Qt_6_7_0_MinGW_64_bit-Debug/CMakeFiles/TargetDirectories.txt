@@ -1,0 +1,9 @@
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/parent_child.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/parent_child_autogen_timestamp_deps.dir
+C:/Users/gkashabo/Desktop/Git/AlphaWorks/Qt Intermediate/qt-4-3/build-parent_child-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/parent_child_autogen.dir
